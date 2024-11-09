@@ -14,4 +14,4 @@ This project is a simple food website created with HTML, CSS, and JavaScript. It
 - **JavaScript** - For adding interactive elements.
 
 
-![Homepage Screenshot](src/assets/homepage.png)
+![Homepage Screenshot](images/homepage.png)
